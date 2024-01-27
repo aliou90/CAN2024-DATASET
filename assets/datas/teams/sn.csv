@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 SN,Édouard Mendy,Gardien,Al-Ahli
 SN,Mory Diaw,Gardien,Clermont Foot
@@ -25,4 +26,33 @@ SN,Habib Diallo,Attaquant,Al-Shabab
 SN,Iliman Ndiaye,Attaquant,Olympique de Marseille
 SN,Ismaïla Sarr,Attaquant,Olympique de Marseille
 SN,Sadio Mané,Attaquant,Al-Nassr
+=======
+Code,Nom du Joueur,Position,Club
+SN,Édouard Mendy,Gardien,Al-Ahli
+SN,Mory Diaw,Gardien,Clermont Foot
+SN,Alfred Gomis,Gardien,Lorient
+SN,Youssouf Sabaly,Défenseur,Betis Séville
+SN,Krépin Diatta,Défenseur,AS Monaco
+SN,Kalidou Koulibaly,Défenseur,Al-Hilal
+SN,Moussa Niakhaté,Défenseur,Nottingham Forest
+SN,Abdou Diallo,Défenseur,Al-Arabi
+SN,Formose Mendy,Défenseur,FC Lorient
+SN,Abdoulaye Ndiaye,Défenseur,Estac Troyes
+SN,Abdoulaye Seck,Défenseur,Maccabi Haïfa
+SN,Fodé Ballo-Touré,Défenseur,Fulham
+SN,Ismail Jakobs,Défenseur,AS Monaco
+SN,Lamine Camara,Milieu,FC Metz
+SN,Pape Matar Sarr,Milieu,Tottenham
+SN,Cheikhou Kouyaté,Milieu,Nottingham Forest
+SN,Nampalys Mendy,Milieu,RC Lens
+SN,Pape Gueye,Milieu,Olympique de Marseille
+SN,Pathé Ciss,Milieu,Rayo Vallecano
+SN,Idrissa Gueye,Milieu,FC Everton
+SN,Nicolas Jackson,Attaquant,Chelsea FC
+SN,Abdallah Sima,Attaquant,Rangers
+SN,Habib Diallo,Attaquant,Al-Shabab
+SN,Iliman Ndiaye,Attaquant,Olympique de Marseille
+SN,Ismaïla Sarr,Attaquant,Olympique de Marseille
+SN,Sadio Mané,Attaquant,Al-Nassr
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 SN,Bamba Dieng,Attaquant,Lorient

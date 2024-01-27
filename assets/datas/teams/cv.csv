@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 CV,Vozinha,Gardien,AS Trencin
 CV,Marcio Rosa,Gardien,Anadia FC
@@ -23,4 +24,31 @@ CV,Willy Semedo,Attaquant,Omonia Nicosie
 CV,Bébé,Attaquant,Rayo Vallecano
 CV,Jovane Cabral,Attaquant,Salernitana
 CV,Hélio Varela,Attaquant,Portimonense
+=======
+Code,Nom du Joueur,Position,Club
+CV,Vozinha,Gardien,AS Trencin
+CV,Marcio Rosa,Gardien,Anadia FC
+CV,Dylan Silva,Gardien,SU Sintrense
+CV,Stopira,Défenseur,Boavista
+CV,Roberto Lopes,Défenseur,Shamrock Rovers
+CV,Diney Borges,Défenseur,Al Bataeh
+CV,Dylan Tavares,Défenseur,SC Bastia
+CV,Logan Costa,Défenseur,Toulouse FC
+CV,Joao Correia,Défenseur,Desportivo Chaves
+CV,Steven Moreira,Défenseur,Colombus Crew
+CV,Jamiro Monteiro,Milieu,San José Earthquakes
+CV,Kenny Rocha,Milieu,AEZ Zakakiou
+CV,Patrick Andrade,Milieu,Qarabag
+CV,Joao Paulo Fernandes,Milieu,Sheriff Tiraspol
+CV,Cuca,Milieu,UD Leiria
+CV,Kevin Pina,Milieu,Krasnodar
+CV,Laros Duarte,Milieu,FC Groningen
+CV,Ryan Mendes,Attaquant,Karagümrük
+CV,Garry Rodrigues,Attaquant,Ankaragücü
+CV,Gilson Benchimol,Attaquant,Benfica B
+CV,Willy Semedo,Attaquant,Omonia Nicosie
+CV,Bébé,Attaquant,Rayo Vallecano
+CV,Jovane Cabral,Attaquant,Salernitana
+CV,Hélio Varela,Attaquant,Portimonense
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 CV,Bryan Teixeira,Attaquant,Sturm Graz

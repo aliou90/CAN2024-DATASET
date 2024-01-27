@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 MR,Babacar Niasse,Gardien,EA Guingamp
 MR,Namori Diaw,Gardien,Tevragh Zeïna
@@ -25,4 +26,33 @@ MR,Aboubakary Koïta,Attaquant,Saint-Trond
 MR,Souleymane Anne,Attaquant,KMSK Deinze
 MR,Amar Sidi Bouna,Attaquant,FC Nouadhibou
 MR,Idrissa Thiam,Attaquant,sans club
+=======
+Code,Nom du Joueur,Position,Club
+MR,Babacar Niasse,Gardien,EA Guingamp
+MR,Namori Diaw,Gardien,Tevragh Zeïna
+MR,Babacar Dio,Gardien,FC Nouadhibou
+MR,Mohamed Yali Dellah,Défenseur,Al-Hedod SC
+MR,Lamine Ba,Défenseur,NK Varazdin
+MR,El Hassen Salem Houeibib,Défenseur,Al-Zawraa SC
+MR,Bakary N’Diaye,Défenseur,Al-Quwa Al-Jawiya
+MR,Nouh Mohamed El Abd,Défenseur,FC Nouadhibou
+MR,Ibrahima Keita,Défenseur,TP Mazembe
+MR,Aly Abeid,Défenseur,UTA Arad
+MR,Khadim Diaw,Défenseur,Al-Hilal
+MR,Mouhsine Bodda,Milieu,FC Nouadhibou
+MR,Guessouma Fofana,Milieu,Doxa Katokopias
+MR,Bakari Camara,Milieu,FC Villefranche
+MR,Omaré Gassama,Milieu,LB Châteauroux
+MR,Sidi Ahmed Mohamed El Abd,Milieu,Nouakchott King
+MR,Yassin El Wely,Milieu,US Monastir
+MR,El Hadji Ba,Milieu,FC Nouadhibou
+MR,Oumar Ngom,Milieu,Pau FC
+MR,Aboubakar Kamara,Attaquant,Al-Jazira
+MR,Hemeya Tanji,Attaquant,Al-Ittihad
+MR,Pape Ibnou Ba,Attaquant,US Concarneau
+MR,Aboubakary Koïta,Attaquant,Saint-Trond
+MR,Souleymane Anne,Attaquant,KMSK Deinze
+MR,Amar Sidi Bouna,Attaquant,FC Nouadhibou
+MR,Idrissa Thiam,Attaquant,sans club
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 MR,Souleymane Doukara,Attaquant,Magusa TGSK

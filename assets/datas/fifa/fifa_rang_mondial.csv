@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Classement,Pays,Points
 1,Argentine,1855.2
 2,France,1845.44
@@ -208,3 +209,215 @@ Classement,Pays,Points
 208,Îles Vierges américaines,796.78
 209,Anguilla,785.69
 210,Saint-Marin,741.61
+=======
+Classement,Pays,Points
+1,Argentine,1855.2
+2,France,1845.44
+3,Angleterre,1800.05
+4,Belgique,1798.46
+5,Brésil,1784.09
+6,Pays-Bas,1745.48
+7,Portugal,1745.06
+8,Espagne,1732.64
+9,Italie,1718.82
+10,Croatie,1717.57
+11,Uruguay,1665.99
+12,États-Unis,1665.27
+13,Maroc,1661.69
+14,Colombie,1655.29
+15,Mexique,1652.7
+16,Allemagne,1631.22
+17,Japon,1620.19
+18,Suisse,1613.44
+19,Danemark,1601.31
+20,Sénégal,1594.31
+21,RI Iran,1565.08
+22,Ukraine,1553.35
+23,République de Corée,1550.65
+24,Autriche,1546.1
+25,Australie,1539.22
+26,Suède,1530.19
+27,Hongrie,1525.13
+28,Tunisie,1523.23
+29,Pays de Galles,1521.88
+30,Algérie,1520.26
+31,Pologne,1520.24
+32,Équateur,1519.2
+33,Égypte,1518.91
+34,Serbie,1517.43
+35,Pérou,1512.68
+36,Écosse,1506.89
+37,Turquie,1505.28
+38,Russie,1498.84
+39,République tchèque,1494.04
+40,Chili,1489.82
+41,Panamá,1475.62
+42,Nigéria,1474.44
+43,Roumanie,1472.73
+44,Norvège,1472.36
+45,Slovaquie,1465.73
+46,Cameroun,1463.06
+47,Grèce,1453.95
+48,Canada,1453.76
+49,Côte d'Ivoire,1447.65
+50,Venezuela,1447.2
+51,Mali,1445.6
+52,Costa Rica,1437.57
+53,Paraguay,1430.73
+54,Slovénie,1427.84
+55,Jamaïque,1421.54
+56,Arabie saoudite,1421.06
+57,Burkina Faso,1411.01
+58,Qatar,1407.3
+59,Finlande,1401.31
+60,République d’Irlande,1399.6
+61,Ghana,1384.19
+62,Albanie,1382.69
+63,Irak,1365.98
+64,Émirats arabes unis,1364.46
+65,Macédoine du Nord,1362.17
+66,Afrique du Sud,1357.08
+67,RD Congo,1356.66
+68,Ouzbékistan,1345.26
+69,Bosnie-et-Herzégovine,1343.32
+70,Monténégro,1342.64
+71,Islande,1338.39
+72,Irlande du Nord,1333.17
+73,Cap Vert,1329.8
+74,Oman,1324.89
+76,Honduras,1313.8
+77,Géorgie,1312.45
+78,Salvador,1306.14
+79,RP Chine,1299.49
+80,Guinée,1290.01
+81,Bulgarie,1289.9
+82,Gabon,1289.52
+83,Luxembourg,1285.41
+84,Zambie,1284.56
+85,Bolivie,1284.55
+86,Bahreïn,1277.29
+87,Jordanie,1272.63
+88,Guinée équatoriale,1268.43
+89,Haïti,1262.5
+90,Curaçao,1262.48
+91,Syrie,1245.27
+92,Ouganda,1245.08
+93,Arménie,1237.15
+94,Vietnam,1235.58
+95,Belarus,1232.8
+96,Trinité-et-Tobago,1228.05
+97,Bénin,1225.1
+98,République kirghize,1224.14
+99,Palestine,1217.6
+100,Kazakhstan,1215.16
+101,Kosovo,1202.77
+102,Inde,1200.8
+103,Guinée-Bissau,1197.83
+104,Aotearoa Nouvelle-Zélande,1197.47
+105,Mauritanie,1195.25
+106,Tadjikistan,1195.07
+107,Liban,1192.58
+108,Guatemala,1189.98
+109,Madagascar,1187.63
+110,Kenya,1181.92
+111,Mozambique,1180.72
+112,Congo,1179.8
+113,Thaïlande,1176.75
+114,Azerbaïdjan,1174.22
+115,Namibie,1168.38
+116,RDP Corée,1168.12
+117,Angola,1168.05
+118,Togo,1165.74
+119,Comores,1156.45
+120,Libye,1155.23
+121,Tanzanie,1155.19
+122,Estonie,1149.7
+123,Malawi,1149.4
+124,Zimbabwe,1144.56
+125,Chypre,1143.42
+126,Gambie,1140.06
+127,Sierra Leone,1138.53
+128,Soudan,1128.74
+129,Niger,1127.75
+130,Malaisie,1122.87
+131,République centrafricaine,1121.34
+132,Îles Salomon,1113.57
+133,Rwanda,1107.04
+134,Nicaragua,1104.26
+135,Îles Féroé,1102.1
+136,Koweït,1098.07
+137,Lettonie,1097.84
+138,Lituanie,1086.93
+139,Burundi,1086.62
+140,Philippines,1086.17
+141,Turkménistan,1078.25
+142,Antigua-et-Barbuda,1072.66
+143,Suriname,1071.85
+144,Éthiopie,1068.79
+145,Botswana,1064.5
+146,Indonésie,1064.01
+147,Saint-Kitts-et-Nevis,1057.05
+148,Lesotho,1047.27
+149,Eswatini,1045.88
+150,Hong Kong,1042.93
+151,République dominicaine,1040.77
+152,Yémen,1027.94
+153,Liberia,1024.11
+154,Chinese Taipei,1023.93
+155,Moldavie,1022.6
+156,Singapour,1020.5
+157,Guyana,1018.14
+158,Afghanistan,1017.68
+159,Nouvelle-Calédonie,1008.92
+160,Porto Rico,1007.19
+161,Maldives,1003.48
+162,Myanmar,1000.46
+163,Tahiti,999.48
+164,Andorre,998
+165,Papouasie-Nouvelle-Guinée,990.61
+166,Soudan du Sud,989.29
+167,Sainte-Lucie,988.67
+168,Fidji,981.26
+169,Cuba,980.65
+170,Vanuatu,980.33
+171,Bermudes,972.36
+172,Malte,967.29
+173,Saint-Vincent-et-les-Grenadines,953.47
+174,Grenade,950.99
+175,Népal,948.05
+176,Montserrat,946.08
+177,Maurice,944.95
+178,Barbade,943.8
+179,Cambodge,931.47
+180,Dominique,922.25
+181,Tchad,920.37
+182,Belize,918.68
+183,Bangladesh,916.75
+184,Bhoutan,913.02
+185,Îles Cook,897.3
+186,Samoa,896.78
+187,Macao,896.62
+188,Samoa américaines,890.97
+189,Laos,889.62
+190,Mongolie,889.16
+191,São Tomé-et-Príncipe,888.94
+192,Djibouti,881.18
+193,Aruba,879.32
+194,Brunei,870.63
+195,Pakistan,856.54
+196,Tonga,856.18
+197,Îles Caïmans,851.19
+198,Somalie,845.66
+199,Seychelles,845.53
+200,Timor oriental,843.4
+201,Gibraltar,840.8
+202,Bahamas,835.81
+203,Liechtenstein,833.01
+204,Sri Lanka,822.03
+205,Guam,821.91
+206,Turks-et-Caicos,818.57
+207,Îles Vierges britanniques,807.57
+208,Îles Vierges américaines,796.78
+209,Anguilla,785.69
+210,Saint-Marin,741.61
+>>>>>>> d77f368c0162713152794251a8899045006847bf

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 ZAM,Toaster Nsabata,Gardien,Zesco Utd
 ZAM,Lawrence Mulenga,Gardien,Kabwe
@@ -24,4 +25,32 @@ ZAM,Fashion Sakala,Attaquant,Al-Feiha
 ZAM,Lameck Banda,Attaquant,Lecce
 ZAM,Kennedy Musonda,Attaquant,Young Africans
 ZAM,Edward Chilfuya,Attaquant,BK Hacken
+=======
+Code,Nom du Joueur,Position,Club
+ZAM,Toaster Nsabata,Gardien,Zesco Utd
+ZAM,Lawrence Mulenga,Gardien,Kabwe
+ZAM,Francis Mwensa,Gardien,Green Buffaloes
+ZAM,Benedict Chepashi,Défenseur,Red Arrows
+ZAM,Stopila Sunzu,Défenseur,Jinan Xingzhou
+ZAM,Gift Mphande,Défenseur,Hapoel Rishon
+ZAM,Changa Chaiwa,Défenseur,Young Boys
+ZAM,Dominic Chanda,Défenseur,Dynamos
+ZAM,Rodrick Kabwe,Défenseur,Zakho
+ZAM,Zephaniah Phiri,Défenseur,Leopards FC
+ZAM,Tandi Mwape,Défenseur,Tp Mazambe
+ZAM,Frankie Musonda,Défenseur,Ayr
+ZAM,Kings Kangwa,Milieu,Belgrade
+ZAM,Clatous Chama,Milieu,Simba SC
+ZAM,Benson Sakala,Milieu,Boleslav
+ZAM,Emmanuel Benda,Milieu,Roeka
+ZAM,Rally Bwalya,Milieu,Sekhukhune
+ZAM,Golden Mafwenta,Milieu,Mfk Vyskov
+ZAM,Lubambo Musonda,Milieu,Silkeborg
+ZAM,Fredrick Mulambia,Milieu,Dynamos
+ZAM,Kel Vin Kampumbu,Milieu,Zanaco
+ZAM,Fashion Sakala,Attaquant,Al-Feiha
+ZAM,Lameck Banda,Attaquant,Lecce
+ZAM,Kennedy Musonda,Attaquant,Young Africans
+ZAM,Edward Chilfuya,Attaquant,BK Hacken
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 ZAM,Patson Daka,Attaquant,Leicester City

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Groupe,Équipe,Code
 A,Côte d'Ivoire,CI
 A,Nigéria,NG
@@ -22,4 +23,30 @@ E,Namibie,NA
 F,Maroc,MA
 F,RD Congo,CD
 F,Zambie,ZM
+=======
+Groupe,Équipe,Code
+A,Côte d'Ivoire,CI
+A,Nigéria,NG
+A,Guinée équatoriale,GQ
+A,Guinée-Bissau,GW
+B,Égypte,EG
+B,Ghana,GH
+B,Cap Vert,CV
+B,Mozambique,MZ
+C,Sénégal,SN
+C,Cameroun,CM
+C,Guinée,GN
+C,Gambie,GM
+D,Algérie,DZ
+D,Burkina Faso,BF
+D,Mauritanie,MR
+D,Angola,AO
+E,Tunisie,TN
+E,Mali,ML
+E,Afrique du Sud,ZA
+E,Namibie,NA
+F,Maroc,MA
+F,RD Congo,CD
+F,Zambie,ZM
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 F,Tanzanie,TZ

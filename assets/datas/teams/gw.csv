@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 GW,Jonas Mendes,Gardien,FC Kalamata
 GW,Fernando Embadje,Gardien,Deportivo Lugo
@@ -23,4 +24,31 @@ GW,Franculino,Attaquant,FC Midtjylland
 GW,Zé Turbo,Attaquant,Pari Nijni Novgorod
 GW,Mauro Rodrigues,Attaquant,Yverdon Sport
 GW,Famana Quizera,Attaquant,Académio de Viseu
+=======
+Code,Nom du Joueur,Position,Club
+GW,Jonas Mendes,Gardien,FC Kalamata
+GW,Fernando Embadje,Gardien,Deportivo Lugo
+GW,Ouparine Djoco,Gardien,Francs Borains
+GW,Marcelo Djalo,Défenseur,Palencia CF
+GW,Opa Sanganté,Défenseur,USL Dunkerque
+GW,Sori Mané,Défenseur,Académio de Viseu
+GW,Fali Candé,Défenseur,FC Metz
+GW,Edgar Ié,Défenseur,Istanbul Başakşehir
+GW,Nanu,Défenseur,Samsunspor
+GW,Houboulang Mendes,Défenseur,UD Almeria
+GW,Jefferson Encada,Défenseur,Pharco FC
+GW,Nito Gomes,Milieu,CS Maritimo
+GW,Dalcio Gomes,Milieu,APOEL Nicosie
+GW,Alfa Semedo,Milieu,Al-Taï
+GW,Moreto Cassama,Milieu,Omonia Nicosie
+GW,Janio Bikel,Milieu,Gaziantep FK
+GW,Carlos Mané,Milieu,Kayserispor
+GW,Carlos Gomes,Milieu,Bolton Wanderers
+GW,Mama Baldé,Attaquant,Olympique Lyonnais
+GW,Zinho Gano,Attaquant,Zulte Waregem
+GW,Franculino,Attaquant,FC Midtjylland
+GW,Zé Turbo,Attaquant,Pari Nijni Novgorod
+GW,Mauro Rodrigues,Attaquant,Yverdon Sport
+GW,Famana Quizera,Attaquant,Académio de Viseu
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 GW,Marciano,Attaquant,UD Almeria

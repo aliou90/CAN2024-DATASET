@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Classement,Pays,Class. Mondial
 1,Maroc,13
 2,Sénégal,18
@@ -18,4 +19,26 @@ Classement,Pays,Class. Mondial
 17,Gabon,85
 18,Guinée Équatoriale,91
 19,Ouganda,92
+=======
+Classement,Pays,Class. Mondial
+1,Maroc,13
+2,Sénégal,18
+3,Tunisie,31
+4,Algérie,33
+5,Égypte,34
+6,Nigeria,39
+7,Cameroun,43
+8,Mali,50
+9,Côte d’Ivoire,51
+10,Burkina Faso,55
+11,Ghana,59
+12,Afrique du Sud,62
+13,Cap Vert,66
+14,République Démocratique du Congo,69
+15,Guinée,80
+16,Zambie,84
+17,Gabon,85
+18,Guinée Équatoriale,91
+19,Ouganda,92
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 20,Bénin,93

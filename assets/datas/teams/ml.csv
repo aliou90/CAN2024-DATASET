@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 ML,Djigui Diarra,Gardien,Young Africans
 ML,Aboubacar Doumbia,Gardien,AFE
@@ -25,4 +26,33 @@ ML,Sirine Doucouré,Attaquant,Lorient
 ML,Ibrahim Sissoko,Attaquant,Saint-Étienne
 ML,Fousseni Diabaté,Attaquant,Lausanne
 ML,Lassine Sinayoko,Attaquant,Auxerre
+=======
+Code,Nom du Joueur,Position,Club
+ML,Djigui Diarra,Gardien,Young Africans
+ML,Aboubacar Doumbia,Gardien,AFE
+ML,Ismael Diawarra,Gardien,Malmo
+ML,Hamari Traoré,Défenseur,Real Sociedad
+ML,Falaye Sacko,Défenseur,Montpellier
+ML,Kiki Kouyaté,Défenseur,Montpellier
+ML,Moussa Diarra,Défenseur,Toulouse
+ML,Mamadou Fofana,Défenseur,Amiens
+ML,Sikou Niakaté,Défenseur,Braga
+ML,Amadou Dante,Défenseur,Sturm Gaz
+ML,Noss Traoré,Milieu,Hull City
+ML,Yves Bissouma,Milieu,Tottenham
+ML,Mohamed Camara,Milieu,Monaco
+ML,Aliou Dieng,Milieu,Al-Ahly
+ML,Amadou Haidara,Milieu,Leipzig
+ML,Lassana Coulibaly,Milieu,Salernitana
+ML,Boubacar Traoré,Milieu,Wolverhampton
+ML,Kamory Doumbia,Milieu,Brest
+ML,Diadie Samassekou,Milieu,Hoffenheim
+ML,Moussa Doumbia,Attaquant,Al-Adalah
+ML,Nene Dorgeles,Attaquant,RB Salzburg
+ML,Sekou Koita,Attaquant,RB Salzburg
+ML,Sirine Doucouré,Attaquant,Lorient
+ML,Ibrahim Sissoko,Attaquant,Saint-Étienne
+ML,Fousseni Diabaté,Attaquant,Lausanne
+ML,Lassine Sinayoko,Attaquant,Auxerre
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 ML,Youssouf Niakaté,Attaquant,Banni Yas

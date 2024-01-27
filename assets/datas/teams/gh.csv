@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 GH,Richard Ofori,Gardien,Wa All Stars
 GH,Joseph Wollacott,Gardien,Hibernian
@@ -25,4 +26,33 @@ GH,Jordan Ayew,Attaquant,Crystal Palace
 GH,Ernest Nuamah,Attaquant,Lyon
 GH,Iñaki Williams,Attaquant,Athletic Club
 GH,Antoine Semenyo,Attaquant,Bournemouth
+=======
+Code,Nom du Joueur,Position,Club
+GH,Richard Ofori,Gardien,Wa All Stars
+GH,Joseph Wollacott,Gardien,Hibernian
+GH,Lawrence Ati-Zigi,Gardien,FC Saint-Gall
+GH,Alidu Seidu,Défenseur,Clermont
+GH,Denis Odoi,Défenseur,Club Bruges
+GH,Kingsley Schindler,Défenseur,Samsunspor
+GH,Gideon Mensah,Défenseur,AJ Auxerre
+GH,Abdul Fatawu Hamid,Défenseur,Medeama
+GH,Nicholas Opoku,Défenseur,Amiens SC
+GH,Daniel Amartey,Défenseur,Beşiktaş
+GH,Salisu Mohammed,Défenseur,AS Monaco
+GH,Alexander Djiku,Défenseur,Fenerbahçe
+GH,Baba Iddrisu,Milieu,Almeria
+GH,Elisha Owusu,Milieu,AJ Auxerre
+GH,Abdul Samed Salis,Milieu,RC Lens
+GH,Richmond Lamptey,Milieu,Asante Kotoko
+GH,Majeed Ashimeru,Milieu,Anderlecht
+GH,Mohammed Kudus,Milieu,West Ham
+GH,André Ayew,Milieu,Le Havre
+GH,Königsdörffer,Milieu,Hambourg SV
+GH,Osman Bukari,Attaquant,Etoile Rouge
+GH,Joseph Painstil,Attaquant,Genk
+GH,Jordan Ayew,Attaquant,Crystal Palace
+GH,Ernest Nuamah,Attaquant,Lyon
+GH,Iñaki Williams,Attaquant,Athletic Club
+GH,Antoine Semenyo,Attaquant,Bournemouth
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 GH,Jonathan Sowah,Attaquant,Medeama

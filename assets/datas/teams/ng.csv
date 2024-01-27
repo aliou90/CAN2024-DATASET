@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Code,Nom du Joueur,Position,Club
 NG,Stanley Nwabili,Gardien,Chippa United
 NG,Francis Uzoho,Gardien,Omonia Nicosie
@@ -23,4 +24,31 @@ NG,Ademola Lookman,Attaquant,Atalanta Bergame
 NG,Victor Osimhen,Attaquant,Naples
 NG,Ahmed Musa,Attaquant,Sivasspor
 NG,Paul Onuachu,Attaquant,Trabzonspor
+=======
+Code,Nom du Joueur,Position,Club
+NG,Stanley Nwabili,Gardien,Chippa United
+NG,Francis Uzoho,Gardien,Omonia Nicosie
+NG,Olorunleke Ojo,Gardien,Enyimba
+NG,William Troost-Ekong,Défenseur,PAOK Salonique
+NG,Bright Osayi-Samuel,Défenseur,Fenerbahçe
+NG,Ola Aina,Défenseur,Nottingham Forest
+NG,Zaidu,Défenseur,FC Porto
+NG,Bruno Onyemaechi,Défenseur,Boavista FC
+NG,Semi Ajayi,Défenseur,West Bromwich Albion
+NG,Calvin Bassey,Défenseur,Fulham
+NG,Chidozie Awaziem,Défenseur,Boavista FC
+NG,Kenneth Omeruo,Défenseur,Kasimpasa
+NG,Alhassan Yusuf,Milieu,Anvers
+NG,Raphael Onyedika,Milieu,Club Bruges
+NG,Joe Aribo,Milieu,Southampton
+NG,Frank Onyeka,Milieu,Brentford
+NG,Alex Iwobi,Milieu,Fulham
+NG,Kelechi Iheanacho,Attaquant,Leicester
+NG,Samuel Chukwueze,Attaquant,AC Milan
+NG,Moses Simon,Attaquant,FC Nantes
+NG,Ademola Lookman,Attaquant,Atalanta Bergame
+NG,Victor Osimhen,Attaquant,Naples
+NG,Ahmed Musa,Attaquant,Sivasspor
+NG,Paul Onuachu,Attaquant,Trabzonspor
+>>>>>>> d77f368c0162713152794251a8899045006847bf
 NG,Terem Moffi,Attaquant,OGC Nice
